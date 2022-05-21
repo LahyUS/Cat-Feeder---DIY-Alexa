@@ -1,0 +1,10 @@
+****************************************************
+                         Project Information
+****************************************************
+
+Name: Cat Feeder With Speech Command.
+
+References: 
+	*** DIY Arduino Cat Feeder, Alexander Ulitin, August 26, 2016, 		https://www.hackster.io/momwillbeproud/diy-arduino-cat-feeder-1c4c7f
+
+	*** DIY alexa, atomic14, https://github.com/atomic14/diy-alexa
